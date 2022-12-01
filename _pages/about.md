@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Harvard Unversity</a>. samarsenault93 at gmail dot com
+subtitle: <a href='https://triblelab.fas.harvard.edu/'>Trible Lab, Harvard Unversity</a>. samarsenault93 at gmail dot com
 
 profile:
   align: right
