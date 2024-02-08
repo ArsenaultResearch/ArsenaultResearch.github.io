@@ -2,5 +2,7 @@ github_users:
   - ArsenaultResearch
 
 github_repos:
-  - ArsenaultResearch/Shell-Packages
+  - ArsenaultResearch/RNAseq_Pipeline
   - ArsenaultResearch/ASE-pipeline
+  - ArsenaultResearch/Shell-Packages
+

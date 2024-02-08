@@ -72,7 +72,7 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Informal Assistant -  Integrated Science (LS50)
+    - title: Teaching Assistant -  Integrated Science (LS50)
       institution: Harvard University, Cambridge, MA, USA
       year: 2022
       description:
@@ -147,19 +147,3 @@
     - title: How does a single genetic background produce the wildly distinct phenotypes seen in morphological castes?
     - title: What role do supergenes play in the evolution of complex phenotypes and life history adaptations?
     - title: How do insects adapt their physiology when living in extremely cold environments?
-
-- title: Other Interests
-  type: nested_list
-  contents:
-    - title: Physical Activities
-      items:
-        - Hiking
-        - Cycling 
-        - Rock Climbing
-    - title: Nerd Stuff
-      items:
-        - Dungeons and Dragons
-        - Sci-Fi and Fantasy Novels
-    - title: Crafting
-      items:
-        - Bookbinding
