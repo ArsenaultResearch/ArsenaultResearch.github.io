@@ -30,14 +30,14 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Postdoctoral Fellow
+    - title: Postdoctoral Research
       institution: John Harvard Distinguished Research Fellows, Harvard University, Cambridge, MA, USA
       year: 2020-Present
       description:
         - Evolution of queen polymorphisms in the genus Leptothorax using genomic and morphometrics approaches.
         - Molecular underpinnings of novel caste development in <i>Ooceraea biroi</i>.
 
-    - title: Graduate Research/Teaching Assistant
+    - title: Graduate Research
       institution: Department of Entomology, University of Georgia, Athens, GA, USA
       year: 2015-2020
       description:
@@ -56,7 +56,7 @@
             - Developed web-based tools for CRISPR-Cas9 guide RNA synthesis.
             - Applications of the CRISPR-Cas9 in <i>Trypanosoma cruzi</i>.
 
-    - title: Undergraduate Research Assistant
+    - title: Undergraduate Research
       institution: Department of Genentics and College of Engineering, University of Georgia, Athens, GA, USA
       year: 2014-2015
       description:
@@ -72,21 +72,25 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Teaching Assistant -  Integrated Science (LS50)
+    - title: Instructor -  Integrated Science (LS50)
       institution: Harvard University, Cambridge, MA, USA
       year: 2022
       description:
-        - Assisted Buck Trible in the planning and implementation of this research-driven course.
-        - Walked students through generating and analyzing morphometrics datasets. 
+        - Developed and Implemented in collaboartion with Buck Trible.
+        - Research-driven course focusing on providing hands-on experience to first-year undergraduates. 
     - title: Teaching Assistant - Insects and the Environment (ENTO 2010)
       institution: University of Georgia, Athens, GA, USA
       year: 2018
       description:
-        - Maintained the online material as well as organized the gradebook for the course. 
-    - title: Graduate Laboratory Assistant - Principles of Biology II Lab (BIOL 1108L)
+        - Designed and evaluated in-class assignments
+      title: Instructor of Record - Principles of Biology II Lab (BIOL 1108L)
+      year: 2018
+      description:
+        - Organized and taught the lab portion of introductory biology for science majors focusing on research techniques, fieldwork, and general concepts in biology. 
+    - title: Instructor of Record - Principles of Biology II Lab (BIOL 1108L)
       year: 2017
       description:
-        - Organized and taught the lab portion of introductory biology for science majors focusing on research techniques and general concepts in biology.
+        - Organized and taught the lab portion of introductory biology for science majors focusing on research techniques, fieldwork, and general concepts in biology.
     - title: Teaching Assistant - Principles of Biology II (BIOL 1108)
       year: 2016
       description:
@@ -94,7 +98,7 @@
     - title: Tutor at Mathnasium at Woodlawn Square, Marietta, GA, USA 
       year: 2010-2011
       description:
-        - Mathematics tutor for students from age 5-18 in all levels of mathematics up to and including AP Calculus.
+        - One-on-one mathematics tutor for students from age 5-18.
 
 - title: Conferences and Presentations
   type: time_table
@@ -102,6 +106,8 @@
     - title: Postdoctoral
       year: 2020-Present
       description:
+          - Oral Presentation at Biology and Genomics of Social Insects Conference (2024)
+          - Oral Presentation at the Invertebrate Supergroup Meeting (2023)
           - Invited Departmental Seminar at University of Rochester (October 2022)
           - Chalk Talk at Boston Evolutionary Genomics Supergroup Annual Retreat (October 2022)
           - Oral Presentation at 2022 SINNERS Conference (June 2022)
@@ -140,10 +146,3 @@
       items:
         - Honorable Mention for the National Science Foundation Graduate Research Fellowship Program
         - Innovative and Interdisciplinary Research Grant 
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: How does a single genetic background produce the wildly distinct phenotypes seen in morphological castes?
-    - title: What role do supergenes play in the evolution of complex phenotypes and life history adaptations?
-    - title: How do insects adapt their physiology when living in extremely cold environments?

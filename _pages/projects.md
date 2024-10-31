@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research Interests
 permalink: /projects/
-description: Projects I'm working on for Work and Fun
+description: 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [current,past]
 horizontal: false
 ---
 
