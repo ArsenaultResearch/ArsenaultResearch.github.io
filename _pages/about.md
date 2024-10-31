@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Sam Arsenault, Ph.D. <a href='https://triblelab.fas.harvard.edu/'>Trible Lab, Harvard Unversity</a>. samarsenault93 at gmail dot com
 
