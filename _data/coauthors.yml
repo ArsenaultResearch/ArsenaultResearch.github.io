@@ -10,3 +10,14 @@
   - firstname: ["Waring", "Buck", "W."]
     url: https://triblelab.fas.harvard.edu/
 
+"Glastad":
+  - firstname: ["Karl", "Karl M.", "Karl M"]
+    url: https://www.glastadlab.org/
+
+"Rehan":
+  - firstname: ["Sandra", "Sandra M.", "Sandra M"]
+    url: http://www.rehanlab.com/
+
+"Kocher":
+  - firstname: ["Sarah", "Sarah D.", "Sarah D"]
+    url: https://kocherlab.princeton.edu/
