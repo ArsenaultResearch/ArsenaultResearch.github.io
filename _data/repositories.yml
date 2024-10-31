@@ -1,8 +1,7 @@
 github_users:
-  - ArsenaultResearch
 
 github_repos:
   - ArsenaultResearch/RNAseq_Pipeline
   - ArsenaultResearch/ASE-pipeline
-  - ArsenaultResearch/Shell-Packages
+  - ArsenaultResearch/windowRAxMLng
 

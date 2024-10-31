@@ -113,8 +113,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Sam's Ramblings # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+# blog_name: Sam's Ramblings # blog_name will be displayed in your blog page
+blog_name: # Empty should disable the blog page. Per https://github.com/alshedivat/al-folio/issues/67
+# blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: # Empty, same as above
 blog_description: A place for me to sporadically post my thoughts on science, books, or whatever
 permalink: /blog/:year/:title/
 
