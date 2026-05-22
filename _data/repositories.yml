@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - name: ArsenaultResearch/RNAseq_Pipeline
+    description: A pipeline for RNA-seq data processing and differential expression analysis in social insect systems.
+    language: Python
+  - name: ArsenaultResearch/ASE-pipeline
+    description: A pipeline for allele-specific expression analysis from RNA-seq data.
+    language: Python
+  - name: ArsenaultResearch/windowRAxMLng
+    description: Windowed maximum-likelihood phylogenetic inference using RAxML-NG.
+    language: R
