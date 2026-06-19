@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-19'
 papers:
   KiPN7IEAAAAJ:2osOgNQ5qMEC:
     citations: 63
@@ -26,7 +26,7 @@ papers:
     title: Origin of the clock in Neurospora crassa
     year: '2025'
   KiPN7IEAAAAJ:W7OEmFMy1HYC:
-    citations: 116
+    citations: 117
     title: Evolution of a supergene that regulates a trans-species social polymorphism
     year: '2020'
   KiPN7IEAAAAJ:Y0pCki6q_DkC:
@@ -38,7 +38,7 @@ papers:
     title: Gene regulatory differences between alate gynes from monogyne and polygyne colonies of the red imported fire ant (Solenopsis invicta)
     year: '2017'
   KiPN7IEAAAAJ:_FxGoFyzp5QC:
-    citations: 5
+    citations: 6
     title: Direct and indirect genetic effects of a social supergene
     year: '2023'
   KiPN7IEAAAAJ:d1gkVwhDpl0C:
@@ -46,7 +46,7 @@ papers:
     title: Synchronizing stochastic circadian oscillators in single cells of Neurospora crassa
     year: '2016'
   KiPN7IEAAAAJ:eQOLeE2rZwMC:
-    citations: 18
+    citations: 19
     title: "Simple inheritance, complex regulation: Supergene\u2010mediated fire ant queen polymorphism"
     year: '2020'
   KiPN7IEAAAAJ:qjMakFHDy7sC:
