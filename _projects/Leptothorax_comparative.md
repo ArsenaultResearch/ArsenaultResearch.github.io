@@ -1,8 +1,8 @@
 ---
 layout: page
 title: A supergene across a radiation
-description: How life history evolution shapes a genetic polymorphism across a genus
-img: assets/img/Leptothorax_phylogeny.png
+description: How life history evolution shapes a genetic polymorphism
+img: assets/img/Leptothorax_phylogeny_circular.jpg
 importance: 2
 category: current
 ---
