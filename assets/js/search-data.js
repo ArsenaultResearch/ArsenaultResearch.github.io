@@ -427,16 +427,34 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-excited-to-announce-that-the-arsenault-lab-will-officially-launch-in-fall-2026-in-the-department-of-biological-sciences-at-mississippi-state-university-if-you-are-an-undergraduate-looking-for-research-experience-or-are-interested-in-pursuing-a-master-s-or-ph-d-please-reach-out",
           title: 'I’m excited to announce that the Arsenault Lab will officially launch in Fall...',
           description: "",
+          section: "News",},{id: "news-our-paper-is-out-today-in-science-advances-we-identify-ergatoid-a-supergene-that-creates-a-new-caste-in-the-moss-ant-leptothorax-af-erg-by-turning-larvae-that-would-become-winged-queens-into-wingless-ergatoid-queens-this-paper-represents-six-years-of-work-by-me-géraldine-bienvenu-christina-daly-and-buck-trible-we-re-excited-to-see-it-out",
+          title: 'Our paper is out today in Science Advances! We identify ergatoid, a supergene...',
+          description: "",
           section: "News",},{id: "projects-epigenetics-of-behavior",
           title: 'Epigenetics of behavior',
           description: "Regulatory impact of DNA methylation in Ceratina calcarata",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ccalcarata/";
-            },},{id: "projects-queen-polymorphism",
-          title: 'Queen polymorphism',
-          description: "Characterizing a genetic queen polymorphism in Leptothorax ergatogyneous",
+            },},{id: "projects-a-supergene-for-a-new-caste",
+          title: 'A supergene for a new caste',
+          description: "Characterizing a genetic queen polymorphism in Leptothorax AF-erg",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Leptothorax_E/";
+            },},{id: "projects-a-supergene-across-a-radiation",
+          title: 'A supergene across a radiation',
+          description: "How life history evolution shapes a genetic polymorphism",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Leptothorax_comparative/";
+            },},{id: "projects-maintaining-a-polymorphism",
+          title: 'Maintaining a polymorphism',
+          description: "Field studies of the selective pressures that maintain a queen polymorphism",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Leptothorax_ecology/";
+            },},{id: "projects-supergenes-and-complex-phenotypes",
+          title: 'Supergenes and complex phenotypes',
+          description: "How a supergene reshapes development, and what it reveals about how bodies are built",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Leptothorax_function/";
             },},{id: "projects-social-parasite-polymorphism",
           title: 'Social parasite polymorphism',
           description: "Identifying the molecular basis of a socially parasitic morph in Ooceraea biroi",
