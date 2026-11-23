@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maintaing a polymorphism
+title: Maintaining a polymorphism
 description: Field studies of the selective pressures that maintain a queen polymorphism
 img: assets/img/Leptothorax_Nest.jpg
 importance: 4

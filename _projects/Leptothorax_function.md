@@ -2,7 +2,7 @@
 layout: page
 title: Supergenes and complex phenotypes
 description: How a supergene reshapes development, and what it reveals about how bodies are built
-img: assets/img/FunctionalManips.jpg
+img: assets/img/FunctionalManips_top.jpg
 importance: 3
 category: current
 ---
