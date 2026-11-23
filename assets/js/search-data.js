@@ -427,7 +427,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-excited-to-announce-that-the-arsenault-lab-will-officially-launch-in-fall-2026-in-the-department-of-biological-sciences-at-mississippi-state-university-if-you-are-an-undergraduate-looking-for-research-experience-or-are-interested-in-pursuing-a-master-s-or-ph-d-please-reach-out",
           title: 'I’m excited to announce that the Arsenault Lab will officially launch in Fall...',
           description: "",
-          section: "News",},{id: "news-our-paper-is-out-today-in-science-advances-we-identify-ergatoid-a-supergene-that-creates-a-new-caste-in-the-moss-ant-leptothorax-af-erg-by-turning-larvae-that-would-become-winged-queens-into-wingless-ergatoid-queens-this-paper-represents-six-years-of-work-by-me-géraldine-bienvenu-christina-daly-and-buck-trible-we-re-excited-to-see-it-out",
+          section: "News",},{id: "news-our-paper-is-out-today-in-science-advances-we-identify-ergatoid-a-supergene-that-creates-a-new-caste-in-the-moss-ant-leptothorax-af-erg-by-turning-larvae-that-would-become-winged-queens-into-wingless-ergatoid-queens-this-paper-represents-six-years-of-work-by-me-géraldine-bienvenu-christina-daly-and-buck-trible-we-re-excited-to-see-it-out-link",
           title: 'Our paper is out today in Science Advances! We identify ergatoid, a supergene...',
           description: "",
           section: "News",},{id: "projects-epigenetics-of-behavior",
